@@ -7,7 +7,7 @@ typed Lisp dialect originally written in OCaml.
 bomad behaves like the original interpreter: same syntax, same standard
 library, same diagnostics. while exposing a first class embedding API for
 Gleam and Erlang hosts. It tracks the Rust port
-([romad](https://github.com/Moritisimor/romad)) fix for fix.
+([romad](https://github.com/RobertFlexx/romad)) fix for fix.
 
 ## Building
 
