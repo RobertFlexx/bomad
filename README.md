@@ -9,6 +9,8 @@ library, same diagnostics. while exposing a first class embedding API for
 Gleam and Erlang hosts. It tracks the Rust port
 ([romad](https://github.com/RobertFlexx/romad)) fix for fix.
 
+also see [gomad](https://github.com/Moritisimor/gomad) for the native Go implementation, and embedding API for Go
+
 ## Building
 
 ```bash
