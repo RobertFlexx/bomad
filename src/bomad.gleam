@@ -11,7 +11,7 @@ const help = " \\\\
  //\\\\
 //  \\\\
 
-The Magnificent Nomad-LISP Interpretation System
+The Magnificent Bomad Interpretation System
 
 Omit all arguments to enter REPL Mode.
 Use the -e | --eval flag to evaluate an expression which is passed as an argument.
